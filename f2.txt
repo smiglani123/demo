@@ -1,1 +1,1 @@
-This is f2 file
+This is f2 fileIt is a regular file
